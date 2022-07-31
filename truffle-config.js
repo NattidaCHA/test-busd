@@ -23,7 +23,7 @@ const provider = new HDWalletProvider({
      privateKeys: ['eb0791f8dc7ded3e9b22cf01b6ceefc18103392e1a6af11e0fca7f9686b9b5a5'],
      providerOrUrl: 'https://data-seed-prebsc-1-s1.binance.org:8545/'
 });
-//
+////
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
